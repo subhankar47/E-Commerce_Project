@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b54094-11ea-4a80-bdbc-aae6c6920400" name="Changes" comment="commit updated pom xml">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220080741.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220080807.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220080832.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220081642.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220081706.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220081730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220082005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220082029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots/createAccountTest_20220220082106.png" afterDir="false" />
+    <list default="true" id="c8b54094-11ea-4a80-bdbc-aae6c6920400" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/log4j.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/log4j.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ExtentReport/MyReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extent-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mystore/actiondriver/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mystore/actiondriver/Action.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +57,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.349586" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -131,7 +121,28 @@
       <option name="project" value="LOCAL" />
       <updated>1645367499854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1645369025864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645369025864</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1645369057865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645369057865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1645369072191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645369072191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +160,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit updated pom xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit updated pom xml" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

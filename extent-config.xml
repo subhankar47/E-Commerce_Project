@@ -19,7 +19,7 @@
         <!-- report name - displayed at top-nav -->
         <reportName>MyStoreProject Report
             <![CDATA[
-                <img src='F:\Intellij\MyStoreProject\Logo\MyStorelogo.jpg'/>
+                <img src='http://localhost:8080/job/E-Commerce_Project/ws/Logo/MyStorelogo.jpg'/>
             ]]>
         </reportName>
 
